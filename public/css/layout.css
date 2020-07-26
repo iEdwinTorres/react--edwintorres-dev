@@ -215,7 +215,7 @@ ul#nav li.current a {
 }
 #about a:hover,
 #about a:focus {
-    color: #11abb0;
+    color: #f06000;
 }
 
 #about h2 {
@@ -248,7 +248,7 @@ ul#nav li.current a {
     background: #444;
 }
 #about .download .button:hover {
-    background: #fff;
+    background: #f06000;
     color: #2b2b2b;
 }
 #about .download .button i {
