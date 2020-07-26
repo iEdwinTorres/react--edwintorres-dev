@@ -216,7 +216,6 @@ ul#nav li.current a {
 #about a:hover,
 #about a:focus {
     color: #f06000;
-    font-weight: 900;
 }
 
 #about h2 {
