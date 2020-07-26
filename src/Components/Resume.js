@@ -8,8 +8,9 @@ class Resume extends Component {
                     <div key={education.school}>
                         <h3>{education.school}</h3>
                         <p className="info">
-                            {education.degree} <span>&bull;</span>
-                            <em className="date">{education.graduated}</em>
+                            <span>{education.degree}</span>
+                            <span>&bull;</span>
+                            <span className="date"> {education.graduated}</span>
                         </p>
                         <p>{education.description}</p>
                     </div>
@@ -76,7 +77,6 @@ class Resume extends Component {
                     </div>
 
                     <div className="nine columns main-col">
-
                         <div className="bars">
                             <ul className="skills">{skills}</ul>
                         </div>

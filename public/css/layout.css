@@ -216,6 +216,7 @@ ul#nav li.current a {
 #about a:hover,
 #about a:focus {
     color: #f06000;
+    font-weight: 900;
 }
 
 #about h2 {
@@ -307,6 +308,7 @@ ul#nav li.current a {
     color: #6e7881;
     margin-bottom: 18px;
     margin-top: 9px;
+    display: inline-block;
 }
 #resume .info span {
     margin-right: 5px;
@@ -315,6 +317,7 @@ ul#nav li.current a {
 #resume .date {
     font: 15px/24px 'opensans-regular', sans-serif;
     margin-top: 6px;
+    display: inline-block;
 }
 
 /*----------------------------------------------*/

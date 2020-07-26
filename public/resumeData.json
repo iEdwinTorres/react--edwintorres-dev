@@ -43,13 +43,13 @@
         "education": [
             {
                 "school": "Kenzie Academy",
-                "degree": "Front-End Software Engineering",
+                "degree": "Front-End Software Engineering Certification",
                 "graduated": "October 2019 - April 2020",
                 "description": ""
             },
             {
                 "school": "",
-                "degree": "Back-End Software Engineering",
+                "degree": "Back-End Software Engineering Certification",
                 "graduated": "April 2020 - October 2020",
                 "description": "An intense and comprehensive 52-week Software Engineering course that prepares students to enter the workforce with the knowledge and skills sought after by employers throughout the industry."
             }
