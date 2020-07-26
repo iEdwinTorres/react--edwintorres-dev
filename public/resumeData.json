@@ -15,7 +15,7 @@
             "zip": "46201"
         },
         "website": "https://www.edwintorres.dev/",
-        "resumedownload": "https://www.edwintorres.dev/public/documents/Resume-Aug2020.pdf",
+        "resumedownload": "https://drive.google.com/file/d/1L06pyDZu-Xc26ZZwhge4dq2XOeb3-4Ft/view?ths=true",
         "social": [
             {
                 "name": "facebook",
@@ -44,13 +44,13 @@
             {
                 "school": "Kenzie Academy",
                 "degree": "Front-End Software Engineering",
-                "graduated": "April 2020",
+                "graduated": "October 2019 - April 2020",
                 "description": ""
             },
             {
                 "school": "",
                 "degree": "Back-End Software Engineering",
-                "graduated": "October 2020",
+                "graduated": "April 2020 - October 2020",
                 "description": "An intense and comprehensive 52-week Software Engineering course that prepares students to enter the workforce with the knowledge and skills sought after by employers throughout the industry."
             }
         ],
@@ -75,15 +75,15 @@
                 "level": "50%"
             },
             {
-                "name": "HTML 5",
+                "name": "HTML",
                 "level": "45%"
             },
             {
-                "name": "CSS 3",
+                "name": "CSS",
                 "level": "25%"
             },
             {
-                "name": "javascript",
+                "name": "Javascript",
                 "level": "60%"
             },
             {
@@ -91,7 +91,7 @@
                 "level": "30%"
             },
             {
-                "name": "Python 3",
+                "name": "Python",
                 "level": "70%"
             },
             {
