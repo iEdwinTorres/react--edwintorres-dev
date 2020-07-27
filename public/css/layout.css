@@ -245,7 +245,8 @@ ul#nav li.current a {
 }
 #about .download .button {
     margin-top: 6px;
-    background: #444;
+    background: #7b7b7b;
+    color: #000000;
 }
 #about .download .button:hover {
     background: #f06000;
@@ -1023,7 +1024,7 @@ call-to-action .button {
 }
 #twitter li b a {
     font: 13px/36px 'opensans-regular', Sans-serif;
-    color: #474747 !important;
+    color: #7b7b7b !important;
     border: none;
 }
 
@@ -1034,7 +1035,7 @@ call-to-action .button {
 footer {
     padding-top: 48px;
     margin-bottom: 48px;
-    color: #474747;
+    color: #7b7b7b;
     font-size: 14px;
     text-align: center;
     position: relative;
@@ -1042,7 +1043,7 @@ footer {
 
 footer a,
 footer a:visited {
-    color: #525252;
+    color: #7b7b7b;
 }
 footer a:hover,
 footer a:focus {
@@ -1104,7 +1105,7 @@ footer .social-links li:first-child {
     display: block;
     width: 60px;
     height: 60px;
-    background-color: #525252;
+    background-color: #7b7b7b;
 
     -webkit-transition: all 0.2s ease-in-out;
     -moz-transition: all 0.2s ease-in-out;
