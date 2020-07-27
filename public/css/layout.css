@@ -249,7 +249,7 @@ ul#nav li.current a {
 }
 #about .download .button:hover {
     background: #f06000;
-    color: #2b2b2b;
+    color: #000000;
 }
 #about .download .button i {
     margin-right: 15px;
@@ -308,6 +308,7 @@ ul#nav li.current a {
     margin-bottom: 18px;
     margin-top: 9px;
     display: inline-block;
+    color: #000000;
 }
 #resume .info span {
     margin-right: 5px;
