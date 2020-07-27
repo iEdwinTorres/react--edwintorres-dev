@@ -18,6 +18,17 @@
     }
 }
 
+    /* footer
+   ------------------------------------------------------------------------ */
+
+    /* social links */
+    footer .social-links {
+      font-size: 40px;
+  }
+  footer .social-links li {
+      margin: 0px 15px;
+  }
+
 /* screenwidth less than 900px
 --------------------------------------------------------------------- */
 @media only screen and (max-width: 900px) {
@@ -212,7 +223,7 @@
 
     /* header social links */
     header .social {
-        margin: 18px -11px 24px;
+        margin: 18px -10px 24px;
         font-size: 45px;
         line-height: 36px;
     }
@@ -391,7 +402,7 @@
         font-size: 45px;
     }
     footer .social-links li {
-        margin: 18px 5px;
+        margin: 18px 15px;
     }
 
     /* Go To Top Button */
@@ -436,7 +447,7 @@
         font-size: 40px;
     }
     header .social li {
-        margin: 10px 10px;
+        margin: 10px 15px;
     }
 
     /* footer
@@ -447,6 +458,6 @@
         font-size: 40px;
     }
     footer .social-links li {
-        margin: 0px 6px;
+        margin: 0px 15px;
     }
 }
