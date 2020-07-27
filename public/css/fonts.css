@@ -14,7 +14,6 @@
             format('svg');
     font-weight: normal;
     font-style: normal;
-    font-display: swap;
 }
 @font-face {
     font-family: 'opensans-italic';
@@ -27,7 +26,6 @@
             format('svg');
     font-weight: normal;
     font-style: normal;
-    font-display: swap;
 }
 @font-face {
     font-family: 'opensans-light';
@@ -40,7 +38,6 @@
             format('svg');
     font-weight: normal;
     font-style: normal;
-    font-display: swap;
 }
 @font-face {
     font-family: 'opensans-light-italic';
@@ -54,7 +51,6 @@
             format('svg');
     font-weight: normal;
     font-style: normal;
-    font-display: swap;
 }
 @font-face {
     font-family: 'opensans-semibold';
@@ -67,7 +63,6 @@
             format('svg');
     font-weight: normal;
     font-style: normal;
-    font-display: swap;
 }
 @font-face {
     font-family: 'opensans-semibold-italic';
@@ -82,7 +77,6 @@
             format('svg');
     font-weight: normal;
     font-style: normal;
-    font-display: swap;
 }
 @font-face {
     font-family: 'opensans-bold';
@@ -95,7 +89,6 @@
             format('svg');
     font-weight: normal;
     font-style: normal;
-    font-display: swap;
 }
 @font-face {
     font-family: 'opensans-bold-italic';
@@ -108,7 +101,6 @@
             format('svg');
     font-weight: normal;
     font-style: normal;
-    font-display: swap;
 }
 @font-face {
     font-family: 'opensans-extrabold';
@@ -121,7 +113,6 @@
             format('svg');
     font-weight: normal;
     font-style: normal;
-    font-display: swap;
 }
 @font-face {
     font-family: 'opensans-extrabold-italic';
@@ -136,7 +127,6 @@
             format('svg');
     font-weight: normal;
     font-style: normal;
-    font-display: swap;
 }
 
 /*
@@ -155,7 +145,6 @@
             format('svg');
     font-weight: normal;
     font-style: normal;
-    font-display: swap;
 }
 
 /*
@@ -166,13 +155,11 @@
         font-family: 'opensans-semibold';
         src: url('fonts/opensans/OpenSans-Semibold-webfont.svg#open_sanssemibold')
             format('svg');
-        font-display: swap;
     }
 
     @font-face {
         font-family: 'opensans-bold';
         src: url('fonts/opensans/OpenSans-Bold-webfont.svg#open_sansbold')
             format('svg');
-        font-display: swap;
     }
 }
