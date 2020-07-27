@@ -58,14 +58,6 @@
     </head>
 
     <body>
-        <div class="loader-wrapper">
-            <span class="loader"><span class="loader-inner"></span></span>
-        </div>
-        <script>
-            $(window).on('load', function () {
-                $('.loader-wrapper').fadeOut('slow');
-            });
-        </script>
         <noscript>
             You need to enable JavaScript to run this app.
         </noscript>
@@ -88,5 +80,14 @@
         <script src="js/jquery.fittext.js"></script>
         <script src="js/magnific-popup.js"></script>
         <script src="js/init.js"></script>
+
+        <div class="loader-wrapper">
+            <span class="loader"><span class="loader-inner"></span></span>
+        </div>
+        <script>
+            $(window).on('load', function () {
+                $('.loader-wrapper').fadeOut(1000);
+            });
+        </script>
     </body>
 </html>
