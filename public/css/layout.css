@@ -31,8 +31,8 @@ header {
     height: 800px;
     min-height: 500px;
     width: 100%;
-    background: #161415 url(../images/header-background.jpg) no-repeat top
-        center;
+    background: url(../images/header-background.webp), url(../images/header-background.jp2) no-repeat top
+        center #161415 ;
     background-size: cover !important;
     -webkit-background-size: cover !important;
     text-align: center;
