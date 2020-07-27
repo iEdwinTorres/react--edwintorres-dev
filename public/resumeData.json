@@ -33,6 +33,11 @@
                 "className": "fa fa-linkedin"
             },
             {
+                "name": "instagram",
+                "url": "https://www.instagram.com/iedwint/",
+                "className": "fa fa-instagram"
+            },
+            {
                 "name": "github",
                 "url": "https://github.com/iedwintorres",
                 "className": "fa fa-github"
