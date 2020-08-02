@@ -65,8 +65,8 @@ header .banner {
     width: 85%;
     padding-bottom: 30px;
     text-align: center;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 1);
 }
-
 header .banner-text {
     width: 100%;
 }
@@ -75,14 +75,12 @@ header .banner-text h1 {
     color: #fff;
     letter-spacing: -2px;
     margin: 0 auto 18px auto;
-    text-shadow: 0px 1px 3px rgba(0, 0, 0, 1);
 }
 header .banner-text h3 {
-    font: 18px/1.9em 'opensans-regular', sans-serif;
+    font: 20px/1.9em 'opensans-regular', sans-serif;
     color: #fff;
     margin: 0 auto;
     width: 60%;
-    text-shadow: 0px 1px 1px rgba(0, 0, 0, 1);
 }
 header .banner-text h3 span,
 header .banner-text h3 a {
@@ -101,7 +99,6 @@ header .social {
     padding: 0 0;
     font-size: 45px;
 }
-
 
 header .social li {
     display: inline-block;
@@ -152,7 +149,7 @@ header .scrolldown a:hover {
 
 /* nav-wrap */
 #nav-wrap {
-    font: 15px 'opensans-bold', sans-serif;
+    font: 20px 'opensans-bold', sans-serif;
     width: 100%;
     text-transform: uppercase;
     letter-spacing: 2.5px;
@@ -232,18 +229,19 @@ ul#nav li.current a {
 }
 
 #about h2 {
-    font: 22px/30px 'opensans-bold', sans-serif;
+    font: 25px/30px 'opensans-bold', sans-serif;
     color: #fff;
     margin-bottom: 12px;
 }
 #about p {
     line-height: 30px;
     color: #fff;
+    font-size: 16px;
 }
 #about .profile-pic {
     position: relative;
-    width: 120px;
-    height: 120px;
+    width: 150px;
+    height: 150px;
     border-radius: 100%;
 }
 #about .contact-details {
@@ -251,13 +249,13 @@ ul#nav li.current a {
 }
 #about .download {
     width: 58.33333%;
-    padding-top: 6px;
+    padding-top: 20px;
 }
 #about .main-col {
     padding-right: 5%;
 }
 #about .download .button {
-    margin-top: 6px;
+    margin-top: 7px;
     background: #7b7b7b;
     color: #000000;
 }
@@ -300,7 +298,7 @@ ul#nav li.current a {
     padding-bottom: 6px;
 }
 #resume h3 {
-    font: 25px/30px 'opensans-bold', sans-serif;
+    font: 35px/35px 'opensans-bold', sans-serif;
 }
 
 #resume .header-col {
@@ -317,21 +315,24 @@ ul#nav li.current a {
     border-bottom: 1px solid #e8e8e8;
 }
 #resume .info {
-    font: 16px/24px 'librebaskerville-italic', serif;
+    font: 18px/24px 'librebaskerville-italic', serif;
     color: #6e7881;
     margin-bottom: 18px;
     margin-top: 9px;
     display: inline-block;
     color: #000000;
 }
-#resume .info span {
-    margin-right: 5px;
-    margin-left: 5px;
-}
 #resume .date {
-    font: 15px/24px 'opensans-regular', sans-serif;
+    font: 18px/24px 'opensans-regular', sans-serif;
     margin-top: 6px;
     display: inline-block;
+}
+#resume .p {
+    font-size: 16px;
+}
+
+#resume .bullet {
+    margin: 0px 8px;
 }
 
 /*----------------------------------------------*/
