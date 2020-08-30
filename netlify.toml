@@ -1,5 +1,5 @@
 [[redirects]]
-  from = "/esp/"
+  from = "/esp/*"
   to = "https://edwintorres-dev.netlify.app/:splat"
   status = 200
   force = true
