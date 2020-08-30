@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from "react";
 
 class Contact extends Component {
     render() {
@@ -37,8 +37,7 @@ class Contact extends Component {
                             action=""
                             method="post"
                             id="contactForm"
-                            name="contactForm"
-                        >
+                            name="contactForm">
                             <fieldset>
                                 <div>
                                     <label htmlFor="contactName">
@@ -56,7 +55,7 @@ class Contact extends Component {
 
                                 <div>
                                     <label htmlFor="contactEmail">
-                                        Email{' '}
+                                        Email{" "}
                                         <span className="required">*</span>
                                     </label>
                                     <input
@@ -85,15 +84,14 @@ class Contact extends Component {
 
                                 <div>
                                     <label htmlFor="contactMessage">
-                                        Message{' '}
+                                        Message{" "}
                                         <span className="required">*</span>
                                     </label>
                                     <textarea
                                         cols="50"
                                         rows="15"
                                         id="contactMessage"
-                                        name="contactMessage"
-                                    ></textarea>
+                                        name="contactMessage"></textarea>
                                 </div>
 
                                 <div>

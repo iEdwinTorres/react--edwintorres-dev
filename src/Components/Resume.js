@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from "react";
 
 class Resume extends Component {
     render() {
@@ -30,13 +30,12 @@ class Resume extends Component {
             //     );
             // });
             var skills = this.props.data.skills.map(function (skills) {
-                var className = 'bar-expand ' + skills.name.toLowerCase();
+                var className = "bar-expand " + skills.name.toLowerCase();
                 return (
                     <li key={skills.name}>
                         <span
                             style={{ width: skills.level }}
-                            className={className}
-                        ></span>
+                            className={className}></span>
                         <em>{skills.name}</em>
                     </li>
                 );
