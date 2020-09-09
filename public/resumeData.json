@@ -53,19 +53,19 @@
         "skills": [
             {
                 "name": "Git",
-                "level": "45%"
+                "level": "35%"
             },
             {
                 "name": "HTML 5",
-                "level": "90%"
+                "level": "85%"
             },
             {
                 "name": "Tailwind CSS",
-                "level": "66%"
+                "level": "65%"
             },
             {
                 "name": "Javascript",
-                "level": "55%"
+                "level": "50%"
             },
             {
                 "name": "React",
@@ -77,7 +77,7 @@
             },
             {
                 "name": "Django",
-                "level": "5%"
+                "level": "45%"
             }
         ]
     },
