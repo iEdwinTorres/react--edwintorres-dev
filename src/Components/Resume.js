@@ -6,7 +6,7 @@ class Resume extends Component {
             var education = this.props.data.education.map(function (education) {
                 return (
                     <div key={education.school}>
-                        <a href='https://www.kenzie.academy'><h3>{education.school} <i className="fa fa-external-link"></i></h3></a>
+                        <a href='https://www.kenzie.academy'><h3>{education.school} <i id="xLink" className="fa fa-external-link"></i></h3></a>
                         <p className="info">
                             <span>{education.degree}</span>
                             <span className="bullet"> &bull; </span>
