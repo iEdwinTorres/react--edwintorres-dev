@@ -53,14 +53,13 @@
         "education": [
             {
                 "school": "Kenzie Academy",
+                "classname": "fa fa-external-link",
                 "degree": "Full-Stack Web Development Certification",
                 "graduated": "October 23, 2020",
-                "description": "An intense and comprehensive 52-week Software Engineering course that prepares students to enter the workforce with the knowledge and skills sought after by employers throughout the industry for Front and Back-End Web Development."
-            },
-            {
-                "degree": "Front-End Web Development Certification",
-                "graduated": "April 24, 2020",
-                "description": "An intense and comprehensive 26-week Software Engineering course that prepares students to enter the workforce with the knowledge and skills sought after by employers throughout the industry for Front and Back-End Web Development."
+                "description": "An intense and comprehensive 52-week Software Engineering course. That prepares students to enter the workforce with the knowledge and skills sought after by employers throughout the industry for Front and Back-End Development. During this one year course, students learn to code with HTML, CSS, Javascript, React, Python, and Django. They also gain the skills to continue their professional and academic growth. A skill that is invaluable in the everchanging tech industry.",
+                "degree2": "Front-End Web Development Certification",
+                "graduated2": "April 24, 2020",
+                "description2": ""
             }
         ],
         "work": [
