@@ -33,6 +33,22 @@
             }
         ]
     },
+    "portfolio": {
+        "projects": [
+            {
+                "title": "Paper, Scissor, Rock",
+                "category": "Javascript, HTML, and CSS",
+                "image": "PSR.jpg",
+                "url": "https://rock-paper-scissors-edwin.netlify.app/"
+            },
+            {
+                "title": "Simple Basketball Game",
+                "category": "Javascript, HTML, and CSS",
+                "image": "BG.jpg",
+                "url": "https://simple-basketball-game.netlify.app"
+            }
+        ]
+    },
     "resume": {
         "education": [
             {
@@ -83,22 +99,6 @@
             {
                 "name": "Django",
                 "level": "45%"
-            }
-        ]
-    },
-    "portfolio": {
-        "projects": [
-            {
-                "title": "Paper, Scissor, Rock",
-                "category": "Javascript, HTML, and CSS",
-                "image": "PSR.jpg",
-                "url": "https://rock-paper-scissors-edwin.netlify.app/"
-            },
-            {
-                "title": "Simple Basketball Game",
-                "category": "Javascript, HTML, and CSS",
-                "image": "BG.jpg",
-                "url": "https://simple-basketball-game.netlify.app"
             }
         ]
     },
