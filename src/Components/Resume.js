@@ -12,11 +12,6 @@ class Resume extends Component {
                             <span className="bullet"> &bull; </span>
                             <span className="date">{education.graduated}</span>
                         </p>
-                        <p className="info">
-                            <span>{education.degree2}</span>
-                            <span className="bullet"> &bull; </span>
-                            <span className="date">{education.graduated2}</span>
-                        </p>
                         <p>{education.description}</p>
                     </div>
                 );
