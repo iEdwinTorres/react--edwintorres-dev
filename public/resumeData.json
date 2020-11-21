@@ -54,9 +54,10 @@
                 "url": "https://torrescarpet.netlify.app/index.html"
             },
             {
-                "title": "Coming Soon...",
-                "category": "",
-                "image": "Construction.jpg"
+                "title": "Bubble Popper",
+                "category": "Javascript, HTML, and CSS",
+                "image": "BP.jpg",
+                "url": "https://bubble-popper-edwin.netlify.app"
             },
             {
                 "title": "Coming Soon...",
