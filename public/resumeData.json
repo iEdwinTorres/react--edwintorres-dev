@@ -4,12 +4,12 @@
         "occupation": "Software Engineer",
         "description": "Specializing in building exceptional websites, applications, and everything in between",
         "image": "profilepic.jpg",
-        "bio": "Recently I earned my Full-Stack Web Development certificate from Kenzie Academy in Indianapolis IN, and I would love to apply the skills I refined at Kenzie and my passion for technology to your Software Engineering role. In addition to my studies, I have spent the better part of my life being fascinated with and staying informed with the latest advancements in tech, whether it be in hardware or software. Seeing the incredible advancements year-over-year in all aspects of tech excites me. All of this motivates me to not just be a part of that advancement, but be a spearhead of it.",
+        "bio": "Recently I earned my Full-Stack Web Development certificate from Butler University in Indianapolis IN, and I would love to apply the skills I refined at Butler and my passion for technology to your Software Engineering role. In addition to my studies, I have spent the better part of my life being fascinated with and staying informed with the latest advancements in tech, whether it be in hardware or software. Seeing the incredible advancements year-over-year in all aspects of tech excites me. All of this motivates me to not just be a part of that advancement, but be a spearhead of it.",
         "contactmessage": "I am currently looking for new opportunities. If you are interested in what I have to offer, please feel free to contact me with any questions you may have.",
         "email": "me@edwintorres.dev",
         "phone": "(765) 670-9736",
         "address": {
-            "street": "(Your Street)",
+            "street": "Redacted",
             "city": "Indianapolis",
             "state": "IN",
             "zip": "46201"
@@ -84,7 +84,7 @@
     "resume": {
         "education": [
             {
-                "school": "Kenzie Academy",
+                "school": "Butler University",
                 "classname": "fa fa-external-link",
                 "degree": "Full-Stack Web Development Certification",
                 "graduated": "October 23, 2020",
