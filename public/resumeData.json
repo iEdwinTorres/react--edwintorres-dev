@@ -4,7 +4,7 @@
         "occupation": "Software Engineer",
         "description": "Specializing in building exceptional websites, applications, and everything in between",
         "image": "profilepic.jpg",
-        "bio": "I earned my Full-Stack Web Development certificate from Butler University in Indianapolis IN, and I would love to apply the skills I refined at Butler and my passion for technology to your Software Engineering role. In addition to my studies, I have spent the better part of my life being fascinated with and staying informed with the latest advancements in tech, whether it be in hardware or software. Seeing the incredible advancements year-over-year in all aspects of tech excites me. All of this motivates me to not just be a part of that advancement, but be a spearhead of it.",
+        "bio": "I earned my Full-Stack Web Development certificate from Kenzie Academy in Indianapolis IN, and I would love to apply the skills I refined at Butler and my passion for technology to your Software Engineering role. In addition to my studies, I have spent the better part of my life being fascinated with and staying informed with the latest advancements in tech, whether it be in hardware or software. Seeing the incredible advancements year-over-year in all aspects of tech excites me. All of this motivates me to not just be a part of that advancement, but be a spearhead of it.",
         "contactmessage": "I am currently looking for new opportunities. If you are interested in what I have to offer, please feel free to contact me with any questions you may have.",
         "email": "me@edwintorres.dev",
         "phone": "(765) 670-9736",
@@ -84,19 +84,20 @@
     "resume": {
         "education": [
             {
-                "school": "Butler University",
+                "school": "Kenzie Academy",
                 "classname": "fa fa-external-link",
-                "degree": "Full-Stack Web Development Certification",
+                "degree": "Full-Stack Software Engineering Certification",
                 "graduated": "October 23, 2020",
                 "description": "An intense and comprehensive 52-week Software Engineering course. That prepares students to enter the workforce with the knowledge and skills sought after by employers throughout the industry for Front and Back-End Development. During this one year course, students learn to code with HTML, CSS, Javascript, React, Python, and Django. They also gain the skills to continue their professional and academic growth. A skill that is invaluable in the everchanging tech industry."
             }
         ],
         "work": [
             {
-                "company": "",
-                "title": "",
-                "years": "",
-                "description": ""
+                "company": "Firefly Integrations",
+                "title": "Software Engineer",
+                "years": "2021 - Present",
+                "description1": "Helped develope two cross platform apps for iOS and Android. These apps allow RV owners to remotely controll all aspects of their coach via our VegaTouch Mira or VegaTouch Eclipse apps. Anything from shades and lights, to HVAC systems and Awning controls. Our app controlled it all.",
+                "description2": "Our Vegatouch brand products allow system control via a capacitive touchscreens and mobile devices with interfaces developed in-house to provide a completely modern RV-C package that provides ease-of-use to our customers. Our mobile applications are available on iOS and Android via our Mira and Eclipse apps."
             }
         ],
         "skills": [
