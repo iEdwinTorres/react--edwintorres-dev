@@ -96,8 +96,8 @@
                 "company": "Firefly Integrations",
                 "title": "Software Engineer",
                 "years": "2021 - Present",
-                "description1": "Helped develope two cross platform apps for iOS and Android. These apps allow RV owners to remotely controll all aspects of their coach via our VegaTouch Mira or VegaTouch Eclipse apps. Anything from shades and lights, to HVAC systems and Awning controls. Our app controlled it all.",
-                "description2": "Our Vegatouch brand products allow system control via a capacitive touchscreens and mobile devices with interfaces developed in-house to provide a completely modern RV-C package that provides ease-of-use to our customers. Our mobile applications are available on iOS and Android via our Mira and Eclipse apps."
+                "description": "Our Vegatouch brand products allow system control via a capacitive touchscreens and mobile devices with interfaces developed in-house to provide a completely modern RV-C package that provides ease-of-use to our customers. Our mobile applications are available on iOS and Android via our Mira and Eclipse apps.",
+                "alt description": "Helped develop two cross platform apps for iOS and Android. These apps allow RV owners to remotely controll all aspects of their coach via our VegaTouch Mira or VegaTouch Eclipse apps. Anything from shades and lights, to HVAC systems and Awning controls. Our app controlled it all."
             }
         ],
         "skills": [

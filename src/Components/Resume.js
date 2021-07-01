@@ -6,16 +6,16 @@ class Resume extends Component {
       var education = this.props.data.education.map(function (education) {
         return (
           <div key={education.school}>
-            <a href="https://www.kenzie.academy">
+            <a href='https://www.kenzie.academy'>
               <h3>
                 {education.school}{" "}
-                <i id="xLink" className="fa fa-external-link"></i>
+                <i id='xLink' className='fa fa-external-link'></i>
               </h3>
             </a>
-            <p className="info">
+            <p className='info'>
               <span>{education.degree}</span>
-              <span className="bullet"> &bull; </span>
-              <span className="date">{education.graduated}</span>
+              <span className='bullet'> &bull; </span>
+              <span className='date'>{education.graduated}</span>
             </p>
             <p>{education.description}</p>
           </div>
@@ -24,18 +24,18 @@ class Resume extends Component {
       var work = this.props.data.work.map(function (work) {
         return (
           <div key={work.company}>
-            <a href="https://www.fireflyint.com">
+            <a href='https://www.fireflyint.com'>
               <h3>
                 {work.company}{" "}
-                <i id="xLink" className="fa fa-external-link"></i>
+                <i id='xLink' className='fa fa-external-link'></i>
               </h3>
             </a>
-            <p className="info">
+            <p className='info'>
               <span>{work.title}</span>
-              <span className="bullet"> &bull; </span>
-              <span className="date">{work.years}</span>
+              <span className='bullet'> &bull; </span>
+              <span className='date'>{work.years}</span>
             </p>
-            <p>{work.description2}</p>
+            <p>{work.description}</p>
           </div>
         );
       });
@@ -51,41 +51,41 @@ class Resume extends Component {
     }
 
     return (
-      <section id="resume">
-        <div className="row education">
-          <div className="three columns header-col">
+      <section id='resume'>
+        <div className='row education'>
+          <div className='three columns header-col'>
             <h1>
               <span>Education</span>
             </h1>
           </div>
 
-          <div className="nine columns main-col">
-            <div className="row item">
-              <div className="twelve columns">{education}</div>
+          <div className='nine columns main-col'>
+            <div className='row item'>
+              <div className='twelve columns'>{education}</div>
             </div>
           </div>
         </div>
 
-        <div className="row work">
-          <div className="three columns header-col">
+        <div className='row work'>
+          <div className='three columns header-col'>
             <h1>
               <span>Employment</span>
             </h1>
           </div>
 
-          <div className="nine columns main-col">{work}</div>
+          <div className='nine columns main-col'>{work}</div>
         </div>
 
-        <div className="row skill">
-          <div className="three columns header-col">
+        <div className='row skill'>
+          <div className='three columns header-col'>
             <h1>
               <span>Skills Set</span>
             </h1>
           </div>
 
-          <div className="nine columns main-col">
-            <div className="bars">
-              <ul className="skills">{skills}</ul>
+          <div className='nine columns main-col'>
+            <div className='bars'>
+              <ul className='skills'>{skills}</ul>
             </div>
           </div>
         </div>
