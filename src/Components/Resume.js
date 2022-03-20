@@ -39,24 +39,6 @@ class Resume extends Component {
           </div>
         );
       });
-      var work = this.props.data.work.map(function (work) {
-        return (
-          <div key={work.company}>
-            <a href={work.website}>
-              <h3>
-                {work.company}{" "}
-                <i id='xLink' className='fa fa-external-link'></i>
-              </h3>
-            </a>
-            <p className='info'>
-              <span>{work.title}</span>
-              <span className='bullet'> &bull; </span>
-              <span className='date'>{work.years}</span>
-            </p>
-            <p>{work.description}</p>
-          </div>
-        );
-      });
       var skills = this.props.data.skills.map(function (skills) {
         var className = "bar-expand " + skills.name.toLowerCase();
         return (
