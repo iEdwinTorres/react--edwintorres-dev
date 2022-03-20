@@ -1,142 +1,151 @@
 {
-    "main": {
-        "name": "Edwin Torres",
-        "occupation": "Software Engineer",
-        "description": "Specializing in building exceptional websites, applications, and everything in between",
-        "image": "profilepic.jpg",
-        "bio": "I earned my Full-Stack Web Development certificate from Kenzie Academy in Indianapolis IN, and I would love to apply the skills I refined at Butler and my passion for technology to your Software Engineering role. In addition to my studies, I have spent the better part of my life being fascinated with and staying informed with the latest advancements in tech, whether it be in hardware or software. Seeing the incredible advancements year-over-year in all aspects of tech excites me. All of this motivates me to not just be a part of that advancement, but be a spearhead of it.",
-        "contactmessage": "I am currently looking for new opportunities. If you are interested in what I have to offer, please feel free to contact me with any questions you may have.",
-        "email": "me@edwintorres.dev",
-        "phone": "(765) 670-9736",
-        "address": {
-            "street": "Redacted",
-            "city": "Indianapolis",
-            "state": "IN",
-            "zip": "46201"
-        },
-        "website": "https://www.edwintorres.dev/",
-        "social": [
-            {
-                "name": "twitter",
-                "url": "https://twitter.com/iEdwinT",
-                "className": "fa fa-twitter"
-            },
-            {
-                "name": "linkedin",
-                "url": "https://www.linkedin.com/in/iedwintorres/",
-                "className": "fa fa-linkedin"
-            },
-            {
-                "name": "github",
-                "url": "https://github.com/iedwintorres",
-                "className": "fa fa-github"
-            }
-        ]
+  "main": {
+    "name": "Edwin Torres",
+    "occupation": "Software Engineer",
+    "description": "Specializing in building exceptional websites, applications, and everything in between",
+    "image": "profilepic.jpg",
+    "bio": "I earned my Full-Stack Web Development certificate from Kenzie Academy in Indianapolis IN, and I would love to apply the skills I refined at Butler and my passion for technology to your Software Engineering role. In addition to my studies, I have spent the better part of my life being fascinated with and staying informed with the latest advancements in tech, whether it be in hardware or software. Seeing the incredible advancements year-over-year in all aspects of tech excites me. All of this motivates me to not just be a part of that advancement, but be a spearhead of it.",
+    "contactmessage": "I am currently looking for new opportunities. If you are interested in what I have to offer, please feel free to contact me with any questions you may have.",
+    "email": "me@edwintorres.dev",
+    "phone": "(765) 670-9736",
+    "address": {
+      "street": "Redacted",
+      "city": "Indianapolis",
+      "state": "IN",
+      "zip": "46204"
     },
-    "portfolio": {
-        "projects": [
-            {
-                "title": "Paper, Scissor, Rock",
-                "category": "Javascript, HTML, and CSS",
-                "image": "PSR.jpg",
-                "url": "https://rock-paper-scissors-edwin.netlify.app/"
-            },
-            {
-                "title": "Simple Basketball Game",
-                "category": "Javascript, HTML, and CSS",
-                "image": "BG.jpg",
-                "url": "https://simple-basketball-game-edwin.netlify.app"
-            },
-            {
-                "title": "Torres Carpet Cleaning",
-                "category": "Responsive Web Design, Bilingual, HTML, CSS, Javascript",
-                "image": "TCC.jpg",
-                "url": "https://torrescarpet.netlify.app/index.html"
-            },
-            {
-                "title": "Bubble Popper",
-                "category": "Javascript, HTML, and CSS",
-                "image": "BP.jpg",
-                "url": "https://bubble-popper-edwin.netlify.app"
-            },
-            {
-                "title": "Coming Soon...",
-                "category": "",
-                "image": "Construction.jpg"
-            },
-            {
-                "title": "Coming Soon...",
-                "category": "",
-                "image": "Construction.jpg"
-            },
-            {
-                "title": "Coming Soon...",
-                "category": "",
-                "image": "Construction.jpg"
-            },
-            {
-                "title": "Coming Soon...",
-                "category": "",
-                "image": "Construction.jpg"
-            }
-        ]
-    },
-    "resume": {
-        "education": [
-            {
-                "school": "Kenzie Academy",
-                "classname": "fa fa-external-link",
-                "degree": "Full-Stack Software Engineering Certification",
-                "graduated": "October 23, 2020",
-                "description": "An intense and comprehensive 52-week Software Engineering course. That prepares students to enter the workforce with the knowledge and skills sought after by employers throughout the industry for Front and Back-End Development. During this one year course, students learn to code with HTML, CSS, Javascript, React, Python, and Django. They also gain the skills to continue their professional and academic growth. A skill that is invaluable in the everchanging tech industry."
-            }
-        ],
-        "work": [
-            {
-                "company": "Firefly Integrations",
-                "title": "Software Engineer",
-                "years": "2021 - Present",
-                "description": "Our Vegatouch brand products allow system control via a capacitive touchscreens and mobile devices with interfaces developed in-house to provide a completely modern RV-C package that provides ease-of-use to our customers. Our mobile applications are available on iOS and Android via our Mira and Eclipse apps.",
-                "alt description": "Helped develop two cross platform apps for iOS and Android. These apps allow RV owners to remotely controll all aspects of their coach via our VegaTouch Mira or VegaTouch Eclipse apps. Anything from shades and lights, to HVAC systems and Awning controls. Our app controlled it all."
-            }
-        ],
-        "skills": [
-            {
-                "name": "Git",
-                "level": "40%"
-            },
-            {
-                "name": "HTML 5",
-                "level": "85%"
-            },
-            {
-                "name": "Tailwind CSS",
-                "level": "65%"
-            },
-            {
-                "name": "Javascript",
-                "level": "60%"
-            },
-            {
-                "name": "React",
-                "level": "50%"
-            },
-            {
-                "name": "Python",
-                "level": "75%"
-            },
-            {
-                "name": "Django",
-                "level": "55%"
-            }
-        ]
-    },
-    "testimonials": {
-        "testimonials": [
-            {
-                "text": ".",
-                "user": ""
-            }
-        ]
-    }
+    "website": "https://www.edwintorres.dev/",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/iEdwinT",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/iedwintorres/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/iedwintorres",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Paper, Scissor, Rock",
+        "category": "Javascript, HTML, and CSS",
+        "image": "PSR.jpg",
+        "url": "https://rock-paper-scissors-edwin.netlify.app/"
+      },
+      {
+        "title": "Simple Basketball Game",
+        "category": "Javascript, HTML, and CSS",
+        "image": "BG.jpg",
+        "url": "https://simple-basketball-game-edwin.netlify.app"
+      },
+      {
+        "title": "Torres Carpet Cleaning",
+        "category": "Responsive Web Design, Bilingual, HTML, CSS, Javascript",
+        "image": "TCC.jpg",
+        "url": "https://torrescarpet.netlify.app/index.html"
+      },
+      {
+        "title": "Bubble Popper",
+        "category": "Javascript, HTML, and CSS",
+        "image": "BP.jpg",
+        "url": "https://bubble-popper-edwin.netlify.app"
+      },
+      {
+        "title": "Coming Soon...",
+        "category": "",
+        "image": "Construction.jpg"
+      },
+      {
+        "title": "Coming Soon...",
+        "category": "",
+        "image": "Construction.jpg"
+      },
+      {
+        "title": "Coming Soon...",
+        "category": "",
+        "image": "Construction.jpg"
+      },
+      {
+        "title": "Coming Soon...",
+        "category": "",
+        "image": "Construction.jpg"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "Kenzie Academy",
+        "website": "https://kenzie.snhu.edu",
+        "degree": "Full-Stack Software Engineering Certification",
+        "graduated": "Oct, 2020",
+        "description": "An intense and comprehensive 52-week Software Engineering course. That prepares students to enter the workforce with the knowledge and skills sought after by employers throughout the industry for Front and Back-End Development. During this one year course, students learn to code with HTML, CSS, Javascript, React, Python, and Django. They also gain the skills to continue their professional and academic growth. A skill that is invaluable in the everchanging tech industry."
+      }
+    ],
+    "work": [
+      {
+        "company": "Temperature Control Services",
+        "website": "https://www.tcsbas.com",
+        "title": "BAS Programmer",
+        "years": "Nov, 2021 - Present",
+        "description": "We deliver value-added services to our clients Domestically and World Wide—providing custom building automation solutions and using integrated, cutting-edge technology around the globe.",
+        "alt description": "Helped develop two cross platform apps for iOS and Android. These apps allow RV owners to remotely controll all aspects of their coach via our VegaTouch Mira or VegaTouch Eclipse apps. Anything from shades and lights, to HVAC systems and Awning controls. Our app controlled it all."
+      },
+      {
+        "company": "Firefly Integrations",
+        "website": "https://www.fireflyint.com",
+        "title": "Software Engineer - Vegatouch",
+        "years": "Feb, 2021 - Nov, 2021",
+        "description": "Our Vegatouch brand products allow system control via a capacitive touchscreens and mobile devices with interfaces developed in-house to provide a completely modern RV-C package that provides ease-of-use to our customers. Our mobile applications are available on iOS and Android via our Mira and Eclipse apps.",
+        "alt description": "Helped develop two cross platform apps for iOS and Android. These apps allow RV owners to remotely controll all aspects of their coach via our VegaTouch Mira or VegaTouch Eclipse apps. Anything from shades and lights, to HVAC systems and Awning controls. Our app controlled it all."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "30%"
+      },
+      {
+        "name": "HTML 5",
+        "level": "75%"
+      },
+      {
+        "name": "Tailwind CSS",
+        "level": "55%"
+      },
+      {
+        "name": "Javascript",
+        "level": "50%"
+      },
+      {
+        "name": "React",
+        "level": "40%"
+      },
+      {
+        "name": "Python",
+        "level": "65%"
+      },
+      {
+        "name": "Django",
+        "level": "45%"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": ".",
+        "user": ""
+      }
+    ]
+  }
 }

@@ -6,7 +6,7 @@ class Resume extends Component {
       var education = this.props.data.education.map(function (education) {
         return (
           <div key={education.school}>
-            <a href='https://www.kenzie.academy'>
+            <a href={education.website}>
               <h3>
                 {education.school}{" "}
                 <i id='xLink' className='fa fa-external-link'></i>
@@ -24,7 +24,25 @@ class Resume extends Component {
       var work = this.props.data.work.map(function (work) {
         return (
           <div key={work.company}>
-            <a href='https://www.fireflyint.com'>
+            <a href={work.website}>
+              <h3>
+                {work.company}{" "}
+                <i id='xLink' className='fa fa-external-link'></i>
+              </h3>
+            </a>
+            <p className='info'>
+              <span>{work.title}</span>
+              <span className='bullet'> &bull; </span>
+              <span className='date'>{work.years}</span>
+            </p>
+            <p>{work.description}</p>
+          </div>
+        );
+      });
+      var work = this.props.data.work.map(function (work) {
+        return (
+          <div key={work.company}>
+            <a href={work.website}>
               <h3>
                 {work.company}{" "}
                 <i id='xLink' className='fa fa-external-link'></i>
