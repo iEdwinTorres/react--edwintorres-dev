@@ -4,7 +4,7 @@
     "occupation": "Software Engineer",
     "description": "Specializing in building exceptional websites, applications, and everything in between",
     "image": "profilepic.jpg",
-    "bio": "I earned my Full-Stack Web Development certificate from Kenzie Academy in Indianapolis IN, and I would love to apply the skills I refined at Butler and my passion for technology to your Software Engineering role. In addition to my studies, I have spent the better part of my life being fascinated with and staying informed with the latest advancements in tech, whether it be in hardware or software. Seeing the incredible advancements year-over-year in all aspects of tech excites me. All of this motivates me to not just be a part of that advancement, but be a spearhead of it.",
+    "bio": "I earned my Full-Stack Web Development certificate from Kenzie Academy in Indianapolis IN, and I would love to apply the skills I refined at Kenzie Academy and my passion for technology to your Software Engineering role. In addition to my studies, I have spent the better part of my life being fascinated with and staying informed with the latest advancements in tech, whether it be in hardware or software. Seeing the incredible advancements year-over-year in all aspects of tech excites me. All of this motivates me to not just be a part of that advancement, but be a spearhead of it.",
     "contactmessage": "I am currently looking for new opportunities. If you are interested in what I have to offer, please feel free to contact me with any questions you may have.",
     "email": "me@edwintorres.dev",
     "phone": "(765) 670-9736",
@@ -95,7 +95,7 @@
       {
         "company": "Temperature Control Services",
         "website": "https://www.tcsbas.com",
-        "title": "BAS Programmer",
+        "title": "Software Engineer & BAS Programmer",
         "years": "Nov, 2021 - Present",
         "description": "We deliver value-added services to our clients Domestically and World Wide—providing custom building automation solutions and using integrated, cutting-edge technology around the globe.",
         "alt description": "Helped develop two cross platform apps for iOS and Android. These apps allow RV owners to remotely controll all aspects of their coach via our VegaTouch Mira or VegaTouch Eclipse apps. Anything from shades and lights, to HVAC systems and Awning controls. Our app controlled it all."
@@ -103,7 +103,7 @@
       {
         "company": "Firefly Integrations",
         "website": "https://www.fireflyint.com",
-        "title": "Software Engineer - Vegatouch",
+        "title": "Software Engineer: Vegatouch",
         "years": "Feb, 2021 - Nov, 2021",
         "description": "Our Vegatouch brand products allow system control via a capacitive touchscreens and mobile devices with interfaces developed in-house to provide a completely modern RV-C package that provides ease-of-use to our customers. Our mobile applications are available on iOS and Android via our Mira and Eclipse apps.",
         "alt description": "Helped develop two cross platform apps for iOS and Android. These apps allow RV owners to remotely controll all aspects of their coach via our VegaTouch Mira or VegaTouch Eclipse apps. Anything from shades and lights, to HVAC systems and Awning controls. Our app controlled it all."
