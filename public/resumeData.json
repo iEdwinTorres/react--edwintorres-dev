@@ -120,32 +120,28 @@
 		],
 		"skills": [
 			{
-				"name": "Git",
-				"level": "30%"
+				"name": "Git Version Control",
+				"level": "60%"
 			},
 			{
-				"name": "HTML 5",
+				"name": "HTML & CSS 3",
 				"level": "75%"
 			},
 			{
 				"name": "Tailwind CSS",
-				"level": "55%"
-			},
-			{
-				"name": "Javascript",
 				"level": "50%"
 			},
 			{
-				"name": "React",
-				"level": "40%"
+				"name": "Javascript / Typescript / React",
+				"level": "85%"
 			},
 			{
-				"name": "Python",
-				"level": "65%"
-			},
-			{
-				"name": "Django",
+				"name": "Python / Django",
 				"level": "45%"
+			},
+			{
+				"name": "C# / .NET",
+				"level": "60%"
 			}
 		]
 	},

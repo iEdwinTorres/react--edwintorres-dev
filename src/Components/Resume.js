@@ -39,15 +39,15 @@ class Resume extends Component {
 					</div>
 				);
 			});
-			// var skills = this.props.data.skills.map(function (skills) {
-			// 	var className = "bar-expand " + skills.name.toLowerCase();
-			// 	return (
-			// 		<li key={skills.name}>
-			// 			<span style={{ width: skills.level }} className={className}></span>
-			// 			<em>{skills.name}</em>
-			// 		</li>
-			// 	);
-			// });
+			var skills = this.props.data.skills.map(function (skills) {
+				var className = "bar-expand " + skills.name.toLowerCase();
+				return (
+					<li key={skills.name}>
+						<span style={{ width: skills.level }} className={className}></span>
+						<em>{skills.name}</em>
+					</li>
+				);
+			});
 		}
 
 		return (
@@ -76,10 +76,10 @@ class Resume extends Component {
 					<div className='nine columns main-col'>{work}</div>
 				</div>
 
-				{/* <div className='row skill'>
+				<div className='row skill'>
 					<div className='three columns header-col'>
 						<h1>
-							<span>Skills Set</span>
+							<span>Skills Sets</span>
 						</h1>
 					</div>
 
@@ -88,7 +88,7 @@ class Resume extends Component {
 							<ul className='skills'>{skills}</ul>
 						</div>
 					</div>
-				</div> */}
+				</div>
 			</section>
 		);
 	}
