@@ -21,7 +21,7 @@ class Footer extends Component {
             <ul className='social-links'>{networks}</ul>
 
             <ul className='copyright'>
-              <li>&copy; Copyright 2020 Edwin Torres</li>
+              <li>&copy; Copyright 2023 Edwin Torres</li>
             </ul>
           </div>
           <div id='go-top'>
