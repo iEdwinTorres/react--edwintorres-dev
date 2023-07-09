@@ -4,7 +4,7 @@
 	position: absolute;
 	top: 0;
 	left: 0;
-	background-color: #000000;
+	background-color: #000;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -31,7 +31,7 @@
 /* ------------------------------------------------------------------ */
 
 body {
-	background: #0f0f0f;
+	background: #000;
 }
 
 /* ------------------------------------------------------------------ */
@@ -125,13 +125,12 @@ header .scrolldown a {
 	bottom: 30px;
 	left: 50%;
 	margin-left: -29px;
-	color: #fff;
+	color: #11abb0;
 	display: block;
 	height: 42px;
 	width: 42px;
 	font-size: 42px;
 	line-height: 42px;
-	color: #fff;
 	border-radius: 100%;
 
 	-webkit-transition: all 0.3s ease-in-out;
@@ -344,7 +343,7 @@ ul#nav li.current a {
 	color: #6e7881;
 	margin-bottom: 18px;
 	margin-top: 9px;
-	display: inline-block;
+	/* display: inline-block; */
 	color: #000000;
 }
 
@@ -514,7 +513,7 @@ ul#nav li.current a {
 	letter-spacing: 1px;
 	text-align: center;
 	margin-bottom: 48px;
-	color: #95a3a3;
+	color: #313131;
 }
 
 /* Portfolio Content */
@@ -1226,7 +1225,7 @@ footer .social-links li {
 	display: block;
 	width: 60px;
 	height: 60px;
-	background-color: #7b7b7b;
+	background-color: #11abb0;
 
 	-webkit-transition: all 0.2s ease-in-out;
 	-moz-transition: all 0.2s ease-in-out;
