@@ -3,23 +3,23 @@ import React, { Component } from "react";
 class Resume extends Component {
 	render() {
 		if (this.props.data) {
-			var education = this.props.data.education.map(function (education) {
-				return (
-					<div key={education.key}>
-						<a href={education.website}>
-							<h3>
-								{education.school} <i id='xLink' className='fa fa-external-link'></i>
-							</h3>
-						</a>
-						<p className='info'>
-							<span>{education.degree}</span>
-							<br />
-							<span className='date'>{education.graduated}</span>
-						</p>
-						<p>{education.description}</p>
-					</div>
-				);
-			});
+			// var education = this.props.data.education.map(function (education) {
+			// 	return (
+			// 		<div key={education.key}>
+			// 			<a href={education.website}>
+			// 				<h3>
+			// 					{education.school} <i id='xLink' className='fa fa-external-link'></i>
+			// 				</h3>
+			// 			</a>
+			// 			<p className='info'>
+			// 				<span>{education.degree}</span>
+			// 				<br />
+			// 				<span className='date'>{education.graduated}</span>
+			// 			</p>
+			// 			<p>{education.description}</p>
+			// 		</div>
+			// 	);
+			// });
 			var work = this.props.data.work.map(function (work) {
 				return (
 					<div key={work.key}>
@@ -60,7 +60,41 @@ class Resume extends Component {
 
 					<div className='nine columns main-col'>
 						<div className='row item'>
-							<div className='twelve columns'>{education}</div>
+							<div className='twelve columns'>
+								<a href='https://www.elevenfifty.org/'>
+									<h3>
+										Eleven Fifty Academy <i id='xLink' className='fa fa-external-link'></i>
+									</h3>
+								</a>
+								<p className='info'>
+									<span>Software Development</span>
+									<br />
+									<span className='date'>April, 2023 - July 2023</span>
+								</p>
+							</div>
+						</div>
+					</div>
+
+					<div className='nine columns main-col'>
+						<div className='row item'>
+							<div className='twelve columns'>
+								<br />
+								<a href='https://kenzie.snhu.edu'>
+									<h3>
+										Kenzie Academy <i id='xLink' className='fa fa-external-link'></i>
+									</h3>
+								</a>
+								<p className='info'>
+									<span>Full-Stack Software Development</span>
+									<br />
+									<span className='date'>April, 2020 - October 2020</span>
+								</p>
+								<p className='info'>
+									<span>Front-End Web Development</span>
+									<br />
+									<span className='date'>October, 2019 - April 2020</span>
+								</p>
+							</div>
 						</div>
 					</div>
 				</div>
