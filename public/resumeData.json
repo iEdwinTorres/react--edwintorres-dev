@@ -34,55 +34,20 @@
 	},
 	"portfolio": {
 		"projects": [
-			{
-				"title": "Paper, Scissor, Rock",
-				"category": "Javascript, HTML, and CSS",
-				"image": "PSR.jpg",
-				"url": "https://rock-paper-scissors-edwin.netlify.app/"
-			},
-			{
-				"title": "Simple Basketball Game",
-				"category": "Javascript, HTML, and CSS",
-				"image": "BG.jpg",
-				"url": "https://simple-basketball-game-edwin.netlify.app"
-			},
-			{
-				"title": "Torres Carpet Cleaning",
-				"category": "Responsive Web Design, Bilingual, HTML, CSS, Javascript",
-				"image": "TCC.jpg",
-				"url": "https://torrescarpet.netlify.app/index.html"
-			},
-			{
-				"title": "Bubble Popper",
-				"category": "Javascript, HTML, and CSS",
-				"image": "BP.jpg",
-				"url": "https://bubble-popper-edwin.netlify.app"
-			},
-			{
-				"title": "Coming Soon...",
-				"category": "",
-				"image": "Construction.jpg"
-			},
-			{
-				"title": "Coming Soon...",
-				"category": "",
-				"image": "Construction.jpg"
-			},
-			{
-				"title": "Coming Soon...",
-				"category": "",
-				"image": "Construction.jpg"
-			},
-			{
-				"title": "Coming Soon...",
-				"category": "",
-				"image": "Construction.jpg"
-			}
+			{ "key": 7, "title": "Paper, Scissor, Rock", "category": "Javascript, HTML, and CSS", "image": "PSR.jpg", "url": "https://rock-paper-scissors-edwin.netlify.app/" },
+			{ "key": 6, "title": "Simple Basketball Game", "category": "Javascript, HTML, and CSS", "image": "BG.jpg", "url": "https://simple-basketball-game-edwin.netlify.app" },
+			{ "key": 5, "title": "Torres Carpet Cleaning", "category": "Responsive Web Design, Bilingual, HTML, CSS, Javascript", "image": "TCC.jpg", "url": "https://torrescarpet.netlify.app/index.html" },
+			{ "key": 4, "title": "Bubble Popper", "category": "Javascript, HTML, and CSS", "image": "BP.jpg", "url": "https://bubble-popper-edwin.netlify.app" },
+			{ "key": 3, "title": "Coming Soon...", "category": "", "image": "Construction.jpg" },
+			{ "key": 2, "title": "Coming Soon...", "category": "", "image": "Construction.jpg" },
+			{ "key": 1, "title": "Coming Soon...", "category": "", "image": "Construction.jpg" },
+			{ "key": 0, "title": "Coming Soon...", "category": "", "image": "Construction.jpg" }
 		]
 	},
 	"resume": {
 		"education": [
 			{
+				"key": 2,
 				"school": "Eleven Fifty Academy",
 				"website": "https://www.elevenfifty.org",
 				"degree": "Software Development",
@@ -91,24 +56,28 @@
 				"alt description": ""
 			},
 			{
+				"key": 1,
 				"school": "Kenzie Academy",
 				"website": "https://kenzie.snhu.edu",
-				"degree": "Full-Stack Software Engineering",
-				"graduated": "October, 2019 – October, 2020",
+				"degree": "Full-Stack Software Development",
+				"graduated": "April, 2020 – October, 2020",
+				"description": "",
+				"alt description": ""
+			},
+			{
+				"key": 0,
+				"school": "Kenzie Academy",
+				"website": "https://kenzie.snhu.edu",
+				"degree": "Front-End Web Development",
+				"graduated": "October, 2019 – April, 2020",
 				"description": "",
 				"alt description": ""
 			}
 		],
 		"work": [
+			{ "key": 1, "company": "Temperature Control Services", "website": "https://www.tcsbas.com", "title": "Software Engineer & BAS Programmer", "years": "November, 2021 – March, 2023", "description": "We deliver value-added services to our clients Domestically and World Wide—providing custom building automation solutions and using integrated, cutting-edge technology around the globe.", "alt description": "" },
 			{
-				"company": "Temperature Control Services",
-				"website": "https://www.tcsbas.com",
-				"title": "Software Engineer & BAS Programmer",
-				"years": "November, 2021 – March, 2023",
-				"description": "We deliver value-added services to our clients Domestically and World Wide—providing custom building automation solutions and using integrated, cutting-edge technology around the globe.",
-				"alt description": ""
-			},
-			{
+				"key": 0,
 				"company": "Firefly Integrations",
 				"website": "https://www.fireflyint.com",
 				"title": "Software Developer",
@@ -119,26 +88,32 @@
 		],
 		"skills": [
 			{
+				"key": 5,
 				"name": "Git Version Control",
 				"level": "60%"
 			},
 			{
+				"key": 4,
 				"name": "HTML & CSS 3",
 				"level": "75%"
 			},
 			{
+				"key": 3,
 				"name": "Tailwind CSS",
 				"level": "50%"
 			},
 			{
+				"key": 2,
 				"name": "Javascript / Typescript / React",
 				"level": "85%"
 			},
 			{
+				"key": 1,
 				"name": "Python / Django",
 				"level": "45%"
 			},
 			{
+				"key": 0,
 				"name": "C# / .NET",
 				"level": "60%"
 			}
@@ -147,6 +122,7 @@
 	"testimonials": {
 		"testimonials": [
 			{
+				"key": 0,
 				"text": ".",
 				"user": ""
 			}
