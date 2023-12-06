@@ -32,12 +32,12 @@ class About extends Component {
 									<span>{name}</span>
 									<br />
 									<span>
-										{/* {street} */}
-										{/* <br /> */}
+										/* {street} */
+										/* <br /> */
 										{city} {state}, {zip}
 									</span>
 									<br />
-									// <span>{phone}</span>
+									<span> /* {phone} */ </span>
 									<br />
 									<span>
 										<a href='mailto:me@edwintorres.com'>{email}</a>
