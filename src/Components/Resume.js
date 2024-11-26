@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React, { Component } from 'react';
 
 class Resume extends Component {
 	render() {
@@ -25,7 +25,11 @@ class Resume extends Component {
 					<div key={work.key}>
 						<a href={work.website}>
 							<h3>
-								{work.company} <i id='xLink' className='fa fa-external-link'></i>
+								{work.company}{' '}
+								<i
+									id='xLink'
+									className='fa fa-external-link'
+								></i>
 							</h3>
 						</a>
 						<p className='info'>
@@ -39,10 +43,13 @@ class Resume extends Component {
 				);
 			});
 			var skills = this.props.data.skills.map(function (skills) {
-				var className = "bar-expand " + skills.name.toLowerCase();
+				var className = 'bar-expand ' + skills.name.toLowerCase();
 				return (
 					<li key={skills.key}>
-						<span style={{ width: skills.level }} className={className}></span>
+						<span
+							style={{ width: skills.level }}
+							className={className}
+						></span>
 						<em>{skills.name}</em>
 					</li>
 				);
@@ -63,7 +70,11 @@ class Resume extends Component {
 							<div className='twelve columns'>
 								<a href='https://www.elevenfifty.org/'>
 									<h3>
-										Eleven Fifty Academy <i id='xLink' className='fa fa-external-link'></i>
+										Eleven Fifty Academy{' '}
+										<i
+											id='xLink'
+											className='fa fa-external-link'
+										></i>
 									</h3>
 								</a>
 								<p className='info'>
@@ -81,7 +92,11 @@ class Resume extends Component {
 								<br />
 								<a href='https://kenzie.snhu.edu'>
 									<h3>
-										Kenzie Academy <i id='xLink' className='fa fa-external-link'></i>
+										Kenzie Academy{' '}
+										<i
+											id='xLink'
+											className='fa fa-external-link'
+										></i>
 									</h3>
 								</a>
 								<p className='info'>
